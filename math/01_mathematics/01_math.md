@@ -1,16 +1,21 @@
 # Mathematics
 
-Mathematics (Greek μάθημα máthēma, "knowledge, study, learning") includes the study of such topics as quantity, structure, space, and change.
+**Mathematics** includes the study of such topics as quantity, structure, space, change, seeking patterns that lead to the discovery of new knowledge with the truth deducible from the supplied proof, which relies on the rigorous argumentation.
 
-Mathematicians seek patterns to formulate new conjectures; they resolve the truth or falsity of conjectures by providing a mathematical proof through rigorous argumentation.
+Mathematical method, used to organize existing and discover new knowledge, starts with the primitive concepts and then introduces axioms, using them to derive new truth through rigorous argumentation.
 
-Ancient Greeks have pioneered the rigorous argumentation; namely, Aristotle laid down the axiomatic method for organizing a field of knowledge logically by means of primitive concepts, axioms, postulates, definitions, and theorems.
 
-This method reached its peek with Euclid of Alexandria - his book _Elements_ from c. 300 BCE featured theorems (of what is now called Euclidean geometry) that were all deduced from a small set of axioms. Euclid justifies each proposition by a demonstration in the form of chains of syllogisms, showcasing excellence in rigor that set the standard for the future.
 
-> _Elements_ is one of the most influential works ever, not only in mathematics, serving as the textbook for teaching geometry, from the time of publication until the early XX century.
+The ancient greeks have championed *rigorous argumentation* and *axiomatic methods* for organizing a field of knowledge logically, starting with the primitive concepts and axioms as the building blocks for building theorems.
 
-The progress of math was relatively slow until the Renaissance, when mathematical innovations reinvigorated its development. In the late XIX century, it became customary to view mathematical research as establishing truth by rigorous deduction from a set of axioms and definitions. This prompted a German mathematician David Hilbert to propose a research into the foundations of mathematics.
+This method reached its peek with Euclid of Alexandria; his book `Elements` from ~300 BCE featured theorems, of what will later be known as the *Euclidean geometry*, that were all deduced from a small set of axioms. Euclid justifies each proposition by a demonstration in the form of chains of syllogisms, showcasing excellence in rigor that set the standard for the future.
+
+> "Elements" is one of the all-time most influential works, having served as the geometry textbook from the time of publication until the early XX century.
+
+
+The development of mathematics was going slow through the middle ages, until the Renaissance, when it exploded with new discoveries and innovations.
+
+Late XIX century saw mathematical research as establishing truth by rigorous deduction from a set of axioms and definitions. This prompted a German mathematician David Hilbert to propose a research into the foundations of mathematics.
 
 The foundation of a mathematical field refers to an analysis of the most fundamental concepts within a field, an investigation into ways to turn that study into a coherent body of knowledge and integrate it with the rest of human knowledge. The **foundation of mathematics** can be regarded as the study of the basic mathematical concepts, especially the fundamental ones that form the language of mathematics (formulas, theories, models, definitions, proofs, algorithms, etc.).
 

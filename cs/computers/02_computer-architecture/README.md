@@ -1,18 +1,18 @@
 # Computer Architecture
 
 
-* Computer Architecture
-  1. Computer architectures design
+* [Computer Architecture](README.md)
+  * Computer architectures design
     - Program-controlled system
     - Stored-program system
     - Von Neumann architecture
     - Harvard architecture
     - Modified Harvard architecture
-  2. Elements of computer architectures
+  * Elements of computer architectures
     * Instruction Set Architecture (ISA)
     * Microarchitecture/Computer organization
     * System Design/Implementation
-  3. Types of computer architectures
+  * Types of computer architectures
     * Serial architectures
       - Reduced instruction set computing (RISC)
       - Complex instruction set computing (CISC)
@@ -34,10 +34,33 @@
 
 
 
-Pages:
-
 1. [Computer Architecture](README.md)
-  - [Computer architecture](ca.md)
-  1.1 [Computer architectures by design](1.1_ca-by-design.md)
-  1.2 [Elements of computer architectures](1.2_ca-elements.md)
-  1.3 [Types of computer architectures](1.3_ca-types.md)
+  1.1 [Computer architecture design](ca-design.md)
+    - Program-controlled system
+    - Stored-program system
+      - Von Neumann architecture
+      - Harvard architecture
+      - Modified Harvard architecture
+  1.2 [Computer architecture elements](ca-elements.md)
+    1.2.1 Instruction Set Architecture (ISA)
+    1.2.2 Microarchitecture (computer organization)
+    1.2.3 System Design (implementation)
+  1.3 [Computer architecture types](ca-types.md)
+    1.3.1 Serial architectures
+      - Reduced instruction set computing (RISC)
+      - Complex instruction set computing (CISC)
+      - Pipeline computing
+      - Stack machines
+    1.3.2 Parallel architectures
+      - Multiple instruction multiple data (MIMD)
+      - Multiple instruction, single data (MISD)
+      - Single instruction, multiple data (SIMD)
+      - Multicore architectures
+    1.3.3 Distributed architectures
+      - Cloud computing
+      - Client-server architectures
+      - n-tier architectures
+      - Peer-to-peer architectures
+    1.3.4 Other architectures
+      - Neuromorphic architecture
+      - Quantum computing
