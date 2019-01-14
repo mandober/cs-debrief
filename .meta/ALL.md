@@ -1,9 +1,8 @@
 # CS: All Topics
 
-<!-- TOC -->
-
+Lists
 - [List: Computer scientists](#list-computer-scientists)
-- [List: rogramming languages](#list-rogramming-languages)
+- [List: Programming languages](#list-rogramming-languages)
 - [List: Scripting languages](#list-scripting-languages)
 - [List: Operating systems](#list-operating-systems)
 - [List: Data languages](#list-data-languages)
@@ -13,6 +12,8 @@
 - [List: Standards](#list-standards)
 - [CS: Subfields](#cs-subfields)
 - [CS: Theories](#cs-theories)
+
+Topics
 - [Networks](#networks)
 - [Coding Theory](#coding-theory)
 - [Hardware](#hardware)
@@ -38,7 +39,6 @@
 - [Computer Classes](#computer-classes)
 - [Computer Engineering](#computer-engineering)
 
-<!-- /TOC -->
 
 
 ## List: Computer scientists

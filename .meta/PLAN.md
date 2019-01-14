@@ -1,40 +1,4 @@
-# The Plan
 
-title: CS Debrief
-tiers: Math, CS, ~~Rust~~, Appendix
-
-
-## Pages
-
-cs
-* computers
-  * intro
-  * computer components
-  * computer architecture
-  * computer system
-  * cpu
-  * memory
-  * addressing
-* data
-  * data representation
-  * data structures
-* networks
-* os
-* programming
-* type system
-
-
-
-
-## CS
-CS structure: categories/groups/pages/articles/sections
-
-II CS *tier*
-1. Computers *chapter 1*
-Computer Science **
-Computer Science: Overview *topic 1*
-    - CS definition *page*
-    - CS areas and fields *article*
 
 
 1. Computers

@@ -6,13 +6,11 @@
 4. System bus
 
 
-
 Computer Hardware elements
 - Core computer parts
   - CPU
   - Buses
   - Primary memory
-
 * CPU
   * CPU elements
     - Processing unit
