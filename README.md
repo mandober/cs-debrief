@@ -4,11 +4,7 @@
 - desc: computer science notes
 - repo: https://github.com/mandober/cs-debrief.git
 - date: 2017-2019
-- stat: wip (perpetual work in progress)
+- about: δὲ τέχνη μακρή
+- stat: (wip, perpetual)
 
-δὲ τέχνη μακρή    
-__CS DEBRIEF__    
-*cs: digested*    
-*& excerpted*     
-
-FEATURING futile attempts to make an all encompassing, top to bottom, hierarchy of topics, with identified grandparent/parent/child relations among all pages/articles, so one can get at least some navigation idea in the huge CS corpus, akin to "you are at x. top is y, next is z". 
+NOTES about misc CS topics thrown on a pile. Spontaneous clustering of pages into a sensible organizational units (OU) still unobserved. Finicky. Hierarchical foldable classification (HFC) of topics against entropy, zero nil. For best results well I'm tapped.

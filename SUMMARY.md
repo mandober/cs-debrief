@@ -1,207 +1,100 @@
 # Summary
 
-[C♯ Debrief](./README.md)
+ma/lo/tt/cs/tc/ca/cp/plt
 
-* [Syntax](syntax/README.md)
-  * [Comments](syntax/comments.md)
-  * [Keywords](syntax/keywords.md)
-  * [Attributes](syntax/attributes.md)
-  * [Preprocessor](syntax/preprocessor.md)
-  * [Operators](syntax/operators.md)
-  * [Loops](syntax/loops.md)
-  * [Conditionals](syntax/conditionals.md)
-
-* Variables
-  - Variable type
-  - Variable scope
-  - Declaration
-  - Definition
-  - Assignment
-* Constants
-  - Local Constants
-  - Constant felds
-  - Readonly
-  - In Parameters
-  - Constant Guideline
-
-* Simple types
-  - Integral types
-  - Floating-point types
-  - Char type
-  - Bool type
-* Arrays
-  - Array Declaration
-  - Array Allocation
-  - Array Assignment
-  - Array Access
-  - Rectangular Arrays
-  - Jagged Arrays
-* Enum
-  - Enum Example
-  - Enum Constant Values
-  - Enum Constant Type110Enum Access Levels and Scope
-  - Enum Methods
-* Struct
-  - Struct Variable
-  - Struct Constructors
-  - Struct Field Initializers
-  - Struct Inheritance
-  - Struct Guideline
-* Strings
-  - String Concatenation
-  - Escape Characters
-  - String Comparison
-  - String Members
-  - StringBuilder Class
-* Methods
-  - Defning Methods
-  - Calling Methods
-  - Method Parameters
-  - Params Keyword
-  - Method Overloading
-  - Optional Parameters
-  - Named Arguments
-  - Return Statement
-  - Value and Reference Types
-  - Pass by Value
-  - Pass by Reference
-  - Ref Keyword
-  - Out Keyword
-  - Local Methods
-* Classes
-  - Class
-  - Object Creation
-  - Accessing Object Members
-  - Constructor
-  - This Keyword
-  - Constructor Overloading
-  - Constructor Chaining
-  - Initial Field Values
-  - Default Constructor
-  - Object Initializers
-  - Partial Class
-  - Garbage Collector
-  - Destructor
-  - Null Keyword
-  - Nullable Types
-  - Null-Coalescing Operator
-  - Null-Conditional Operator
-  - Default Values
-* Inheritance
-  - Object class
-  - Downcast
-  - Upcast
-  - The is and as keywords
-  - Pattern matching
-  - Boxing
-  - Unboxing
-* Abstract
-  - Abstract Members
-  - Abstract Example
-  - Abstract Classes and Interfaces
-* Redefining members
-  - Hiding Members
-  - Overriding Members
-  - Hiding and Overriding
-  - Sealed Keyword
-  - Base Keyword
-* Access Levels
-  - Private Access
-  - Protected Access
-  - Internal Access
-  - Protected Internal Access
-  - Private Protected Access
-  - Public Access
-  - Top-Level Access Levels
-  - Inner Classes
-  - Access Level Guideline
-* Events
-  - Publisher
-  - Event Keyword
-  - Event Caller
-  - Raising Events
-  - Subscriber
-  - Event Handler
-  - Subscribing to Events
-* Generics
-  - Generic Methods
-  - Calling Generic Methods
-  - Generic Type Parameters 153Default Value
-  - Generic Classes
-  - Generic Class Inheritance
-  - Generic Interfaces
-  - Generic Delegates
-  - Generic Events
-  - Generics and Object
-  - Constraints
-  - Multiple Constraints
-  - Why Use Constraints
-* Static
-  - Accessing Static Members
-  - Static Methods
-  - Static Fields
-  - Static Classes
-  - Static Constructor
-  - Extension Methods
-* Properties
-  - Property Advantages
-  - Read-Only and Write-Only Properties
-  - Property Access Levels
-  - Auto-Implemented Properties
-* Indexers
-  - Indexer Parameters
-  - Indexer Overloading
-  - Interfaces
-  - Interface Signatures
-  - Interface Example
-  - Functionality Interface
-  - Class Interface
-* Asynchronous methods
-  - The async and await keywords
-  - Async return types
-  - Custom async methods
-  - Extended return types
-
-* Exception Handling
-  - Try-Catch Statement
-  - Catch Block
-  - Exception Filters
-  - Finally Block
-  - The using Statement
-  - Throwing Exceptions
-
-* Operator Overloading
-  - Operator Overloading Example
-  - Binary Operator Overloading
-  - Unary Operator Overloading
-  - Return Types and Parameters
-  - Overloadable Operators
-  - True and False Operator Overloading
-* Custom Conversions
-  - Implicit Conversion Methods
-  - Explicit Conversion Methods
-
-* Namespace
-  - Nested Namespaces
-  - Namespace Access
-  - Using Directive
-
-* Delegates
-  - Anonymous Methods
-  - Lambda Expressions
-  - Expression Body Members
-  - Multicast Delegates
-  - Delegate Signature
-  - Delegates as Parameters
-
-* Concepts
-  - Collections
-  - Variance
-  - Iterators
-  - Reflection
-  - Assemblies
-  - Serialization
-  - Expression Trees
-  - Caller Information
-
-
+* [Math](./math/README.md)
+  * [math.dm](./math/am/README.md)
+    - [Mathematics](./math/am/01_math.md)
+    - [Foundations of mathematics](./math/am/01_math.md)
+    - [Discrete mathematics](./math/am/02_dm.md)
+    - [Logic: Timeline](./math/am/math-timeline.md)
+    - [Mathematical entities](./math/am/entities.md)
+  * [math.nt](./math/nt/README.md)
+    - Number theory
+      - Natural numbers
+      - Integers
+      - Rational numbers
+      - Real numbers
+    - Counting theory
+      - Fundamental counting rules
+      - Complex numbers
+      - Combinatorics
+      - Permutations
+  * [math.st](./math/st/README.md)
+    - [Sets](./math/st/sets/README.md)
+      - [Overview](./math/st/sets/01_overview.md)
+      - [Specification](./math/st/sets/02_specification.md)
+      - [Membership](./math/st/sets/03_membership.md)
+      - [Cardinality](./math/st/sets/04_cardinality.md)
+      - [Set operations](./math/st/sets/06_set-operations.md)
+      - Subset, powerset, Cartesian product
+      - tuples, pairs
+      - Fundamental sets
+    - Set theory
+      - Naïve set theory
+      - Axiomatic set theory
+      - ZFC axioms
+    - Relations
+      - Order theory
+    - Functions
+      - Types of functions
+  * [math.lo](./math/lo/README.md)
+    - Mathematical Logic
+    - Term logic
+    - Propositional logic
+    - Predicate logic
+  * [math.pt](./math/pt/README.md)
+  * [math.tc](./math/tc/README.md)
+  * [math.lc](./math/lc/README.md)
+  * [math.at](./math/at/README.md)
+  * [math.tt](./math/tt/README.md)
+  * [math.ct](./math/ct/README.md)
+* [CS](./cs/README.md)
+  * Computer architecture
+  * Components
+  * Memory
+  * Data representation
+  * Programming
+    - Declaration
+    - Definition
+    - Assignment
+    - Binding
+  * Type Systems
+    - Data
+    - Types
+    - Typing discipline
+  * [Memory](./cs/memory/README.md)
+    - [Memory Management](./cs/memory/memory-management-levels.md)
+    - Memory Management at the hardware level
+    - [Memory hierachy](cs/memory/memory-hierarchy.md)
+    - [Memory types](cs/memory/memory-types.md)
+    - [Cache](cs/memory/cache.md)
+    - [Memory address register](cs/memory/mar.md)
+    - [Registers](cs/memory/registers.md)
+    - [Word](cs/memory/word.md)
+    - Memory Management at the OS level
+    - [Memory model](cs/memory/memory-model.md)
+    - [Memory protection](cs/memory/memory-protection.md)
+    - [Virtual memory](cs/memory/virtual-memory.md)
+    - [Segmentation fault](cs/memory/segmentation-fault.md)
+    - [Address space](cs/memory/address-space.md)
+    - [Memory address](cs/memory/memory-address.md)
+    - [Physical address](cs/memory/physical-address.md)
+    - Memory Management at the program level
+    - Manual memory management
+    - Garbage collection
+    - [Memory allocation](cs/memory/memory-allocation.md)
+    - Stack based allocation
+    - Dynamic memory allocation
+    - [Memory safety](cs/memory/memory-safety.md)
+    - [Memory leak](cs/memory/memory-leak.md)
+    - [Program memory](cs/memory/program-memory.md)
+* [Appendices](./appendix/README.md)
+  - Glossary
+  - Abbreviations
+  - Greek
+  - Symbols
+  - Timelines
+  - References
+  - Bibliography
+  - Links
