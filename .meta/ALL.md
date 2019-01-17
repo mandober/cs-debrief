@@ -1,45 +1,43 @@
 # CS: All Topics
 
 Lists
-- [List: Computer scientists](#list-computer-scientists)
-- [List: Programming languages](#list-rogramming-languages)
-- [List: Scripting languages](#list-scripting-languages)
-- [List: Operating systems](#list-operating-systems)
-- [List: Data languages](#list-data-languages)
-- [List: Data structures](#list-data-structures)
-- [List: Databases](#list-databases)
-- [List: GUI](#list-gui)
-- [List: Standards](#list-standards)
-- [CS: Subfields](#cs-subfields)
-- [CS: Theories](#cs-theories)
+  - [List: Computer scientists](#list-computer-scientists)
+  - [List: Programming languages](#list-rogramming-languages)
+  - [List: Scripting languages](#list-scripting-languages)
+  - [List: Operating systems](#list-operating-systems)
+  - [List: Data languages](#list-data-languages)
+  - [List: Data structures](#list-data-structures)
+  - [List: Databases](#list-databases)
+  - [List: GUI](#list-gui)
+  - [List: Standards](#list-standards)
+  - [CS: Subfields](#cs-subfields)
+  - [CS: Theories](#cs-theories)
 
 Topics
-- [Networks](#networks)
-- [Coding Theory](#coding-theory)
-- [Hardware](#hardware)
-- [Computer Architecture](#computer-architecture)
-- [Computing](#computing)
-- [Software](#software)
-- [Programming](#programming)
-- [Programming paradigms](#programming-paradigms)
-- [Algorithms](#algorithms)
-- [Regular Languages](#regular-languages)
-- [Data](#data)
-- [Data Structures](#data-structures)
-- [Data representation](#data-representation)
-- [Program Execution](#program-execution)
-- [Programming language theory](#programming-language-theory)
-- [Computer Code](#computer-code)
-- [Compilation](#compilation)
-- [Computing platform](#computing-platform)
-- [Writing programs](#writing-programs)
-- [Programming languages](#programming-languages)
-- [Compilation](#compilation-1)
-- [Software](#software-1)
-- [Computer Classes](#computer-classes)
-- [Computer Engineering](#computer-engineering)
-
-
+  - [Networks](#networks)
+  - [Coding Theory](#coding-theory)
+  - [Hardware](#hardware)
+  - [Computer Architecture](#computer-architecture)
+  - [Computing](#computing)
+  - [Software](#software)
+  - [Programming](#programming)
+  - [Programming paradigms](#programming-paradigms)
+  - [Algorithms](#algorithms)
+  - [Regular Languages](#regular-languages)
+  - [Data](#data)
+  - [Data Structures](#data-structures)
+  - [Data representation](#data-representation)
+  - [Program Execution](#program-execution)
+  - [Programming language theory](#programming-language-theory)
+  - [Computer Code](#computer-code)
+  - [Compilation](#compilation)
+  - [Computing platform](#computing-platform)
+  - [Writing programs](#writing-programs)
+  - [Programming languages](#programming-languages)
+  - [Compilation](#compilation-1)
+  - [Software](#software-1)
+  - [Computer Classes](#computer-classes)
+  - [Computer Engineering](#computer-engineering)
 
 ## List: Computer scientists
   - Edsger Dijkstra
@@ -191,7 +189,6 @@ Topics
   - Data compression
   - Data transmission
   - Data storage
-
 
 ## Hardware
   - CPU

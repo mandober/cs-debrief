@@ -1,7 +1,7 @@
-# Computing Systems
+# Computer Systems
 
 
-* Computing Systems
+* Computer Systems
   * Embedded systems
     - Firmware
     - Embedded hardware
@@ -23,5 +23,3 @@
     - Edge computing
     - Neural networks
     - Quantum computing
-
-
