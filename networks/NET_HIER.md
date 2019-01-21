@@ -1,4 +1,4 @@
-# Networks
+# Network
 
 Networks
 - Network architecture
@@ -29,4 +29,3 @@ Networks
   * Network security
   * Network structure/topology
   * Cloud computing
-

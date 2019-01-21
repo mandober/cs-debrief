@@ -2,8 +2,11 @@
 
 Levels:
 1. Math
-1. Logic
-1. Computer Hardware
+  1.1 Logic
+2. Computer Science
+  2.1. Computer Hardware
+  
+
 1. Computer System ?
 1. Computer Software
   Operating System
@@ -217,8 +220,6 @@ Programming language theory
     - Gateways
     - Routers
 
-
-
 * Computation
   - Computation Units
     - addressability
@@ -308,6 +309,7 @@ Programming language theory
 
 SOFTWARE CATEGORIES
 https://www.wikiwand.com/en/Software
+
 Purpose, or domain of use
   Application software
   System software
@@ -315,59 +317,109 @@ Purpose, or domain of use
 Nature or domain of execution
 
 
+* Software development
+  * Activities
+    - Processes
+    - Requirements
+    - Design
+    - Engineering
+    - Construction
+    - Testing
+    - Debugging
+    - Deployment
+    - Maintenance
+  * Development models
+    - Minimum viable product (MVP)
+    - Agile
+    - Cleanroom
+    - Incremental
+    - Prototyping
+    - Spiral
+    - V model
+    - Waterfall
+  * Methodologies and frameworks
+    - Extreme programming (XP)
+    - Rapid Application Development (RAD)
+    - Scrum
+    - DevOps
+    - Kanban
+    - ASD
+    - DAD
+    - DSDM
+    - FDD
+    - IID
+    - Lean
+    - SD
+    - LeSS
+    - MDD
+    - MSF
+    - PSP
+    - RUP
+    - SAFe
+    - SEMAT
+    - TSP
+    - UP
+  * Supporting disciplines
+    - Configuration management
+    - Documentation 
+    - Software quality assurance (SQA)
+    - Project management
+    - User experience
+  * Practices
+    - Test-driven development (TDD)
+    - Behaviour-driven development (BDD)
+    - ATDD
+    - DDD
+    - Continuous integration (CI)
+    CCO
+    CD
+    Stand-up
+    PP
+    SBE
+  * Tools
+    Compiler
+    Debugger
+    Profiler
+    GUI designer
+    Modeling
+    IDE
+    Build automation
+    Release automation
+    Infrastructure as code
+    Testing
+  * Standards and bodies of knowledge
+    BABOK
+    CMMI
+    IEEE standards
+    ISO 9001
+    ISO/IEC standards
+    PMBOK
+    SWEBOK
+    ITIL
 
-Software development
-  Core activities
-    Processes 
-    Requirements 
-    Design 
-    Engineering 
-    Construction 
-    Testing 
-    Debugging 
-    Deployment 
-    Maintenance
-  Paradigms and models
-    Agile 
-    Cleanroom 
-    Incremental 
-    Prototyping 
-    Spiral 
-    V model 
-    Waterfall
-  Methodologies and frameworks
-    ASD DevOps DAD DSDM FDD IID Kanban Lean SD LeSS MDD MSF PSP RAD RUP SAFe Scrum SEMAT TSP UP XP
-  Supporting disciplines
-    Configuration management Documentation Software quality assurance (SQA) Project management User experience
-  Practices
-    ATDD BDD CCO CI CD DDD PP SBE Stand-up TDD
-  Tools
-    Compiler Debugger Profiler GUI designer Modeling IDE Build automation Release automation Infrastructure as code Testing
-  Standards and Bodies of Knowledge
-    BABOK CMMI IEEE standards ISO 9001 ISO/IEC standards PMBOK SWEBOK ITIL
-  Glossaries
-    Artificial intelligence Computer science Electrical and electronics engineering
+
+
+Artificial intelligence
+Electrical and electronics engineering
 
 
 
-Formalization of software development
-https://www.wikiwand.com/en/History_of_software
-  The development of curricula in computer science has resulted in improvements in software development. Components of these curricula include:
-  Structured and Object Oriented programming[33]
-  Data structures[34]
-  Analysis of Algorithms[35]
-  Formal languages[36] and compiler construction[37]
-  Computer Graphics Algorithms[38]
-  Sorting and Searching[39]
-  Numerical Methods,[40] Optimization and Statistics[41]
-  Artificial Intelligence[42] and Machine Learning[43]
+* Software development:
+  Structured programming
+  Object Oriented programming
+  Data structures
+  Analysis of Algorithms
+  Formal languages
+  compiler construction
+  Computer Graphics Algorithms
+  Sorting and Searching
+  Numerical Methods
+  Optimization
+  Statistics
+  Artificial Intelligence
+  Machine Learning
 
-https://www.wikiwand.com/en/Software_categories
-
-https://www.wikiwand.com/en/History_of_compiler_construction
-
-
-  * Parsing algorithms
+* Parsing algorithms
     * Top-down
       - LL Recursive descent Tail recursive Pratt parser
     * Bottom-up

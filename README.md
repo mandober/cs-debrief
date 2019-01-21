@@ -1,10 +1,26 @@
 # CS Debrief
 
-- name: cs-debrief
-- desc: computer science notes
+- name: `cs-debrief`
+- desc: δὲ τέχνη μακρή
+- type: reference notes
+- date: 2018
 - repo: https://github.com/mandober/cs-debrief.git
-- date: 2017-2019
-- about: δὲ τέχνη μακρή
-- stat: (wip, perpetual)
 
-NOTES about misc CS topics thrown on a pile. Spontaneous clustering of pages into a sensible organizational units (OU) still unobserved. Finicky. Hierarchical foldable classification (HFC) of topics against entropy, zero nil. For best results well I'm tapped.
+
+
+notes covering pseudo-random range of cs terms,    
+thrown on a pile. spontaneous clustering of   
+related taxa into sensible organizational   
+categories still unobserved. extra    
+purpose: curb complexity    
+by constructing   
+deeply nested   
+hierarchical   
+collapsible   
+non-repeating   
+highly granular   
+taxonomy/outline    
+of terms and topics.    
+temporary status record:    
+hierarchy vs anarchy, zero nil;    
+no clear winner on either side insofar.
