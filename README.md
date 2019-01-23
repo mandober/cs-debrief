@@ -8,11 +8,18 @@
 
 
 
-notes covering pseudo-random range of cs terms,    
-thrown on a pile. spontaneous clustering of   
-related taxa into sensible organizational   
-categories still unobserved. extra    
-purpose: curb complexity    
+notes    
+covering     
+pseudo-random     
+range of cs terms,    
+thrown in a pile.    
+spontaneous clustering of     
+related taxa into sensible     
+and organizational   
+categories still   
+unobserved.   
+extra purpose:    
+curbing complexity    
 by constructing   
 deeply nested   
 hierarchical   
@@ -21,6 +28,13 @@ non-repeating
 highly granular   
 taxonomy/outline    
 of terms and topics.    
-temporary status record:    
-hierarchy vs anarchy, zero nil;    
-no clear winner on either side insofar.
+contemporary status report:    
+hierarchy vs anarchy: zero nil;    
+no clear winner on either side.    
+mapping text into context    
+science into computer.   
+no way to fail   
+in a novel way.   
+good science     
+bad outline     
+ok computer.

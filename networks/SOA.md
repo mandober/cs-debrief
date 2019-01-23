@@ -3,7 +3,9 @@
 https://www.wikiwand.com/en/Service-oriented_architecture
 https://en.wikipedia.org/wiki/Category:Service-oriented_(business_computing)?oldformat=true
 
-Service-oriented architecture (SOA) is a style of software design where services are provided to the other components by application components, through a communication protocol over a network. The basic principles of service-oriented architecture are independent of vendors, products and technologies.
+Service-oriented architecture (SOA) is a style of *software design* where services are provided to the other components by application components, through a communication protocol over a network.
+
+The basic principles of service-oriented architecture are independent of vendors, products and technologies.
 
 A service is a discrete unit of functionality that can be accessed remotely and acted upon and updated independently, such as retrieving a credit card statement online.
 
@@ -19,7 +21,7 @@ Different services can be used in conjunction to provide the functionality of a 
 
 ---
 
-## WOA 
+## WOA
 https://www.wikiwand.com/en/Web-oriented_architecture
 
 Web-oriented architecture (WOA) was coined in 2006 by Nick Gall of the Gartner’s group. It is a software architecture style that extends service-oriented architecture (SOA) to web-based applications. WOA was originally created by many web applications and sites, such as social websites and personal websites.

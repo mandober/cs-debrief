@@ -3,23 +3,24 @@
 Theory of Computation (ToC), a branch of Theoretical Computer Science, studies decidability and tractability of computing problems within various models of computation, it analyses the solutions to those problems i.e. algorithms, particularly their space and time complexity. The goal of ToC is to develop formal mathematical models of computation that reflect real-world computers.
 
 Theory of Computation is often divided into 3 areas:
-- Complexity Theory (CXT)
-- Computability Theory (CMT)
-- Automata Theory (AT)
+1. Complexity theory
+2. Computability theory
+3. Automata theory
 
 
 
 ## Complexity theory
-The central questions of complexity theory:
-- What makes some problems computationally hard and other problems easy.
-- Classifying problems according to their degree of "difficulty".
-- Giving a rigorous proof that problems that seems "hard" are "hard" indeed.
+
+Concerns:
+* Computationally *hard* and *easy* problems, P vs NP. Is P = NP?
+* Classifying problems according to their complexity
+* Rigorous proof that a NP problem is NP indeed
 
 
 ## Automata theory
-The cntral questions of automata theory:
-- Whether different models have the same power
-- Can a certain model solve more problems than the other
+The central questions of automata theory:
+* Whether different models have the same power?
+* Can a certain model solve more problems than the other?
 
 Automata theory deals with definitions and properties of different types of
 computation models including:

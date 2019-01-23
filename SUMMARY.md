@@ -1,54 +1,42 @@
 # SUMMARY
 
 
-* Mathematics
-  * Discrete math
-* Logic
-  * Mathematical logic
-* Computer Science
-  * Computer Hardware
-  * Computer Software
-  * Computer System
-  * Data
-  * Computer Networks
-
-
 ## Math
-* Mathematics
-  - Foundations of mathematics
-  - Metamathematics
-    * Sets
-    * Relations
-      - Binary relations
-      - Recurrence relations
-      - Relation Properties
-        - Reflexivity
-        - Coreflexivity
-        - Irreflexivity
-        - Symmetry
-        - Anti-symmetry
-        - Asymmetry
-        - Transitivity
-        - Anti-transitivity
-        - Equivalence relation
-        - Partial equality
-        - Partial equivalence relation
-    * Order theory
-      - Partial order
-      - Total order
-    * Functions
-      - functions basics
-        - kinds of functions
-        - inverses
-        - composition
-        - isomorphism
-        - partial functions
-        - functions and relations
-      - Mapping, Domain, Co-domain, Range
-      - Pre-image, Image
-      - Injective
-      - Surjective
-      - Bijective
+
+* Foundations of mathematics
+* Discrete math
+  * Sets
+  * Relations
+    - Binary relations
+    - Recurrence relations
+    - Relation Properties
+      - Reflexivity
+      - Coreflexivity
+      - Irreflexivity
+      - Symmetry
+      - Anti-symmetry
+      - Asymmetry
+      - Transitivity
+      - Anti-transitivity
+      - Equivalence relation
+      - Partial equality
+      - Partial equivalence relation
+  * Order theory
+    - Partial order
+    - Total order
+  * Functions
+    - functions basics
+      - kinds of functions
+      - inverses
+      - composition
+      - isomorphism
+      - partial functions
+      - functions and relations
+    - Mapping, Domain, Co-domain, Range
+    - Pre-image, Image
+    - Injective
+    - Surjective
+    - Bijective
 * Mathematical Logic
   - Logical System
     - Logical Argument
@@ -270,6 +258,7 @@
   - Functor
 
 
+
 ## CS
 
 * Hardware
@@ -282,11 +271,10 @@
   - Security and privacy
   - Computing methodologies
   - Applied computing
-* cs.HW Hardware
   - Transistors
   - CPU
   - Memory
-* cs.SO Systems Organization
+* Systems Organization
 * Computer Architecture
   - Data representation
     - ASCII
@@ -306,7 +294,6 @@
   - Algorithms
   - Best Practices
 * Memory
-  - Memory
   - Memory Management
     - Memory Management at the hardware level
     - Memory hierachy
@@ -443,7 +430,7 @@
   - Hashing
     - Hash function
 * Theory of computation
-  * cs.LO Logic
+  * Logic in CS
     - Logic and verification
     - Proof theory
     - Modal and temporal logics
@@ -478,8 +465,3 @@
       - Assertions
       - Parsing
       - Abstraction
-
-
-
-
-## Appendix

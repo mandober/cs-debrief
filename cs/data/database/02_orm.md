@@ -1,6 +1,6 @@
 # Object-Relational Mappers
 
-EF maps the C# objects to the entities in a RDB. This is called *object-relational mapping* and it maps classes, objects and properties to the tables, rows and columns.
+*Object-relational mapping* maps classes, objects and properties to the tables, rows and columns.
 
 
 ## Object vs Relation model
