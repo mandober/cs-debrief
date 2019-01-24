@@ -1,4 +1,4 @@
-# HIERARCHY
+# HIERARCHY: MathComp
 
 1. Math
   1.0 Foundations of mathematics
@@ -60,9 +60,8 @@
       * Simply-typed lambda calculus
   1.5 Category theory
 
-2. CompSci
-  2.1 Computer
-  
+2. Comp
+  2.1 Foundations of computing
   2.2 Computer hardware
     2.2 Computer Hardware
     2.2.1 CPU
@@ -349,22 +348,6 @@
   
   2.9 Programming Language Theory
     * Formal languages
-      * Parsing
-      * Syntax
-        * Abstract Syntax
-        * Post Systems
-      * Grammar
-        * Context-free grammar
-          - Backus–Naur Form (BNF)
-          - Extended Backus–Naur Form (EBNF)
-      * Semantics
-    * Language Implementation
-    * Language Interpreters
-    * Language types:
-      - Machine language
-      - Assembly language
-      - Hardware description language
-    * Compiler theory
     * Parsing
       * Top-down
         - LL
@@ -393,6 +376,26 @@
         - Parse tree
         - AST
         - Scannerless parsing
+    * Syntax
+      * Abstract Syntax
+      * Post Systems
+      * Grammars (wrt. context)
+        * Context-free grammar
+          - Backus–Naur Form (BNF)
+          - Extended Backus–Naur Form (EBNF)
+        * Context-sensitive grammar
+    * Semantics
+      * Operational
+      * Denotational
+      * Axiomatic
+    * Language Implementation
+      * Interpreter
+      * Compiler
+    * Language (types)
+      - Machine language
+      - Assembly language
+      - Hardware description language
+    * Compiler theory
   
   2.9 Type Systems
 

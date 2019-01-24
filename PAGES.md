@@ -1,7 +1,8 @@
-# SUMMARY
+# PAGES
 
 
 ## Math
+* Intro
 * Foundations of mathematics
 * Discrete math
   * Sets
