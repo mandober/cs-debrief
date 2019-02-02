@@ -1,5 +1,10 @@
 # CS LINKS
 
+
+SOFTWARE CATEGORIES
+https://www.wikiwand.com/en/Software
+
+
 - [Computers portal](https://www.wikiwand.com/en/Portal:Computers)
 - [Outline of computer engineering](https://www.wikiwand.com/en/Outline_of_computer_engineering)
 - [Outline of computer programming](https://www.wikiwand.com/en/Outline_of_computer_programming)
@@ -24,3 +29,17 @@ https://www.wikiwand.com/en/Software
 https://www.wikiwand.com/en/History_of_software
 https://www.wikiwand.com/en/Software_categories
 https://www.wikiwand.com/en/History_of_compiler_construction
+
+
+co-com-coma   
+co-comp-comma   
+math-comp-coma   
+comp-math-ism   
+comp-math-ise   
+comp-math-ose   
+compmathose   
+commathose   
+comathose   
+comatose    
+varicose   
+senile   

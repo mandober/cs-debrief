@@ -1,9 +1,10 @@
 # SUMMARY
 
 
-## Math
-* Foundations of mathematics
-* Discrete math
+## Mathematics
+
+* Math Foundations
+* Discrete Math
   * Sets
   * Relations
     - Binary relations
@@ -20,7 +21,7 @@
       - Equivalence relation
       - Partial equality
       - Partial equivalence relation
-  * Order theory
+  * Order Theory
     - Partial order
     - Total order
   * Functions
@@ -159,7 +160,7 @@
     - Separation Logic
     - Temporal Logic
     - Model Logic
-- Counting Theory
+* Counting Theory
   - The Rules of Sum and Product
   - Permutations
   - Combinations
@@ -171,7 +172,7 @@
     - Properties of Probability
     - Conditional Probability
     - Bayes' Theorem
-- Algebraic Structures
+* Algebraic Structures
   - Mathematical induction 
     - Induction
     - Strong Induction
@@ -223,27 +224,27 @@
       - Simplification Using Algebraic Functions
       - Karnaugh Maps
       - Simplification Using K-map
-- Theory of Computation
-  - Lambda Calculi
+* Theory of Computation
+  * Lambda Calculi
     - Lambda Calculus
     - Simply Typed Lambda Calculus
     - System F
     - Lambda Pi
     - Lambda Omega
     - Lambda Omega Pi
-  - Formal Language
+  * Formal Language
     - Syntax
     - Semantics
     - Grammer
     - BNF
-  - Complexity Theory
-  - Automata Theory
+  * Complexity Theory
+  * Automata Theory
     - DFA
     - NFA
-- Proof theory
+* Proof Theory
   - Formal verification
   - Automated theorem proving
-- Type Theory
+* Type Theory
   - Path to Type Theory
     - Halting Problem
     - Lambda Calculus
@@ -251,7 +252,7 @@
     - Sequent Calculus
     - Linear Logic
     - Linear Types
-- Category theory
+* Category Theory
   - Category
   - Morphism
   - Functor

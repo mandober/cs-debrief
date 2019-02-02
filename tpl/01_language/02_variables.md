@@ -1,4 +1,9 @@
-# Variable
+# Variables
+
+
+
+
+
 
 Variables are a means to access and manipulate memory.
 
@@ -86,4 +91,3 @@ In such circumstances, GC must deal with a case where only a portion of the memo
 ---
 https://en.wikiversity.org/wiki/Introduction_to_Programming/Scope
 https://www.wikiwand.com/en/Variable_(computer_science)
-

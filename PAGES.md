@@ -1,4 +1,15 @@
-# PAGES
+# Pages
+
+1. Math
+1.1. Math Foundations
+- Logicism
+- Hilbert's Problems
+- Mathematical method
+- Primitive concepts
+- Axioms
+- Rigorous argumentation
+
+
 
 
 ## Math
@@ -124,10 +135,10 @@
       - Consistency
       - Validity
       - Soundness
-      - Completness
+      - Completeness
       - Well-Orderedness
     - Syllogistic Logic
-    - Propositinal Logic
+    - Propositional Logic
       - Well Formed Formula
       - Quantifiers
     - First-order Logic

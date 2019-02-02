@@ -1,7 +1,7 @@
-# HIERARCHY: MathComp
+# Hierarchy
 
-1. Math
-  1.0 Foundations of mathematics
+1. Mathematics
+  1.0 Math foundations
   1.1 Discrete math
     1.1.1 Number theory
       - Naturals
@@ -27,7 +27,7 @@
       * Order theory
       * Functions
     1.1.4 Graphs
-  1.2 Mathematical logic
+  1.2 Math logic
     1.2.0 Syllogistic logic
     1.2.1 Term logic
     1.2.2 Propositional logic
@@ -60,7 +60,9 @@
       * Simply-typed lambda calculus
   1.5 Category theory
 
-2. Comp
+
+
+2. Computer Science
   2.1 Foundations of computing
   2.2 Computer hardware
     2.2 Computer Hardware
@@ -404,3 +406,19 @@
     * Networks components
       - Gateways
       - Routers
+
+
+
+---
+
+computers
+* architecture (class)
+- hardware (instances)
+* data (class)
+- software (instances)
+  * tpl (class)
+  - pl (instances)
+  * os theory (class)
+  - os (instances)
+  * theory of programming
+  - programs
