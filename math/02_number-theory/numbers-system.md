@@ -57,3 +57,27 @@ $$
 |   16 |    A | hex        | 4:1        |
 |   32 |      | Base32     | 5:1        |
 |   64 |      | Base64     | 6:1        |
+
+
+base number system
+2	binary
+3	ternary
+4	quaternary
+5	quinary
+6	senary
+7	septenary
+8	octal
+9	nonary
+10	decimal
+11	undenary
+12	duodecimal
+16	hexadecimal
+20	vigesimal
+60	sexagesimal
+
+negadecimal (base −10) corresponds to decimal (base 10), negabinary (base −2) to binary (base 2), negaternary (base −3) to ternary (base 3), and negaquaternary (base −4) to quaternary (base 4).
+
+---
+
+https://baseconvert.com/
+http://mathworld.wolfram.com/Base.html
