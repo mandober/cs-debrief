@@ -24,11 +24,22 @@ RDBMS is a DBMS, but a DBMS is notnecessarily a RDBMS.
 ## DBMS
 A database management system (DBMS) is an application that enables the creation and administration of databases.
 
-Other DBMS
 Although RDBMS has been the most popular database model since the 1980s, there are many other DBMS types, including: OODBMS, ORDBMS, flat file, hierarchical, network, NoSQL.
 
+## OODBMS
+Object-orientated database management system
+
+## ORDBMS
+Object-Relational Database Management System.
+
+## TPS
+Transactions per second
+
+## OLTP
+Online transaction processing (OLTP) workloads consist of a number of short transactions running concurrently. OLTP databases must be capable of fast query processing and maintaining data integrity under concurrency. For OLTP systems, effectiveness is measured by the number of transactions per second (TPS). Factors like CPU utilization, disk latency, network latency, and memory pressure impact the overall performance.
+
 ## NoSQL
-column store, document store, graph, key-value
+Column store, document store, graph, key-value database containing mainly unstructured data.
 
 ## ACID
 In database systems, ACID (Atomicity, Consistency, Isolation, Durability) refers to a standard set of properties that guarantee database transactions are processed reliably.

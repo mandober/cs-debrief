@@ -1,16 +1,17 @@
-# IEEE Standard for Floating-Point Arithmetic (IEEE 754)
+# IEEE 754 Standard for Floating-Point Arithmetic
+
 
 ## Format
-
-- Two infinities: +∞ and −∞.
-- Two NaN: a quiet NaN (qNaN) and a signaling NaN (sNaN).
+- 2 infinities: +∞ and −∞
+- 2 NaN: quiet NaN, `qNaN`, and signaling NaN, `sNaN`
+- 2 zeros: +0 and -0
 - Finite numbers: which may be either base 2 (binary) or base 10 (decimal).
 
 Each finite number is described by 3 integers and base:
-s = sign (zero or one): 0 (positive) or 1 (negative)
-c = significand or coefficient
-q = exponent
-b = base or radix: 2 or 10
+s = *sign* (zero or one): 0 (positive) or 1 (negative)
+c = *significand* or *coefficient*
+q = *exponent*
+b = *base* or radix: 2 or 10
 
 The numerical value of a finite number is `(−1)^s × c × b^q`
 ± c × 2^q   ± c × 10^q
@@ -24,24 +25,18 @@ the significand 12345, and the exponent −3, then the value is
 (−1)^1 × 12345 × 2^−3 = −1 × 12345 × 0.125 = −1543.125
 
 
-The possible finite values that can be represented in a format are determined by 
-the base b, the number of digits in the significand (precision `p`), 
+The possible finite values that can be represented in a format are determined by the base b, the number of digits in the significand (precision `p`), 
 and the exponent parameter `emax`:
 - `c` must be an integer in the range zero through `b^p−1`
   (e.g., if b=10 and p=7 then c is 0 through 9999999)
 - `q` must be an integer such that `1−emax` ≤ `q+p−1` ≤ `emax`
   (e.g., if p=7 and emax=96 then q is −101 through 90).
 
-Hence (for the example parameters) the smallest non-zero positive number that 
-can be represented is 1×10^−101 and the largest is 9999999×10^90 (9.999999×10^96), 
-and the full range of numbers is −9.999999×10^96 through 9.999999×10^96.
+Hence (for the example parameters) the smallest non-zero positive number that can be represented is 1×10^−101 and the largest is 9999999×10^90 (9.999999×10^96), and the full range of numbers is −9.999999×10^96 through 9.999999×10^96.
 
-The numbers −b^(1−emax) and b^(1−emax) (here, −1×10^−95 and 1×10^−95) are the smallest 
-(in magnitude) normal numbers; non-zero numbers between these smallest numbers 
-are called *subnormal numbers*.
+The numbers −b^(1−emax) and b^(1−emax) (here, −1×10^−95 and 1×10^−95) are the smallest (in magnitude) normal numbers; non-zero numbers between these smallest numbers are called *subnormal numbers*.
 
-Zero values are finite values with significand 0. These are signed zeros, the 
-sign bit specifies if a zero is +0 (positive zero) or −0 (negative zero).
+Zero values are finite values with significand 0. These are signed zeros, the sign bit specifies if a zero is +0 (positive zero) or −0 (negative zero).
 
 
 ## Representation and encoding in memory
@@ -109,4 +104,3 @@ represented in that form is 2^−1074 (because 1074 = 1022 + 53 − 1).
 
 Decimal digits is `digits × log10 base`, this gives an approximate precision in decimal.
 Decimal E max is `Emax × log10 base`, this gives the maximum exponent in decimal.
-

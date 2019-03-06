@@ -35,3 +35,35 @@ Functions
 Administration and automation Query optimization Replication
 Related topics	
 Database models Database normalization Database storage Distributed database Federated database system Referential integrity Relational algebra Relational calculus Relational database Relational model Object-relational database Transaction processing
+
+---
+
+Application Development
+Web
+Mobile
+SharePoint
+Internet Of Things
+Cloud Platforms
+Microsoft Azure
+Amazon Web Services
+Google Cloud Platform
+OLTP Databases
+Microsoft SQL Server
+AWS RDS Platform
+Google Cloud Data Platform
+MySQL
+PostgreSQL
+Oracle Database
+Data Warehouse
+Microsoft Data Warehouse Solutions
+Amazon Data Warehouse Solutions
+Google Data Warehouse Solutions
+Business Intelligence & Big Data
+Microsoft Business Intelligence Solutions
+AWS Business Intelligence Solutions
+Google Cloud Big Data
+Data Integration
+Microsoft Data Integration
+AWS Data Integration
+
+---

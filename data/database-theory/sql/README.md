@@ -1,6 +1,6 @@
 # Database Theory
 
-CS » Data » Database Theory
+CS » Data » Database Theory » DDL and DML
 
 
 * Database theory
@@ -34,5 +34,5 @@ CS » Data » Database Theory
       - XML data store
       - Key-value store
       - Triplestore
-  * DDL and DML
+  * DDL and DML languages
     * SQL

@@ -225,6 +225,41 @@
       - Karnaugh Maps
       - Simplification Using K-map
 * Theory of Computation
+  * Logic in CS
+    - Logic and verification
+    - Proof theory
+    - Modal and temporal logics
+    - Automated reasoning
+    - Constraint and logic programming
+    - Constructive mathematics
+    - Description logics
+    - Equational logic and rewriting
+    - Finite Model Theory
+    - Higher order logic
+    - Linear logic
+    - Programming logic
+    - Abstraction
+    - Verification by model checking
+    - Type theory
+    - Hoare logic
+    - Separation logic
+  * Theory and algorithms for application domains
+    * Program semantics
+      - Algebraic semantics
+      - Denotational semantics
+      - Operational semantics
+      - Axiomatic semantics
+      - Action semantics
+      - Categorical semantics
+    * Program reasoning
+      - Invariants
+      - Program specifications
+      - Pre- and post-conditions
+      - Program verification
+      - Program analysis
+      - Assertions
+      - Parsing
+      - Abstraction
   * Lambda Calculi
     - Lambda Calculus
     - Simply Typed Lambda Calculus
@@ -426,42 +461,132 @@
   - Machine code
   - Intermediate Representation
   - Object code
-* Data Structures
-  - Hashing
-    - Hash function
-* Theory of computation
-  * Logic in CS
-    - Logic and verification
-    - Proof theory
-    - Modal and temporal logics
-    - Automated reasoning
-    - Constraint and logic programming
-    - Constructive mathematics
-    - Description logics
-    - Equational logic and rewriting
-    - Finite Model Theory
-    - Higher order logic
-    - Linear logic
-    - Programming logic
-    - Abstraction
-    - Verification by model checking
-    - Type theory
-    - Hoare logic
-    - Separation logic
-  * Theory and algorithms for application domains
-    * Program semantics
-      - Algebraic semantics
-      - Denotational semantics
-      - Operational semantics
-      - Axiomatic semantics
-      - Action semantics
-      - Categorical semantics
-    * Program reasoning
-      - Invariants
-      - Program specifications
-      - Pre- and post-conditions
-      - Program verification
-      - Program analysis
-      - Assertions
-      - Parsing
-      - Abstraction
+
+* **Data**
+  * Information theory
+  * *Data representation*
+    * Units
+      - bit, byte/octet, word
+      - binary number, binary digit
+      - MSB, LSB
+    * Bit-wise operations
+      * logical operations
+        - NOT, AND, OR, XOR
+        - NAND, NOR, XNOR
+      * complement
+      * bit-shifting
+        - right shift
+        - left shift
+        - sign-preserving shifts
+      * bit-rotation
+        - right rotation
+        - left rotation
+      * bit masks
+    * Endianness
+      - LE
+      - BE
+    * Positional number systems
+      - radix/base
+      - binary
+      - octal
+      - hexadecimal
+      - base32, base64
+    * Number representation
+      * Integers
+        * Integer encoding
+          - Sign and magnitude
+          - One's complement
+          - Two's complement
+        * Integer signed-ness
+          - Unsigned integers
+          - Signed integers
+        * Integer types by size
+            - i8, u8
+            - i16, u16
+            - i3,2 u32
+            - i64, u64
+            - i128, u128
+        * ISA-dependent integers
+      * Real numbers
+        * Real number encoding
+          * Fixed-point numbers
+            - Fixed-point number encoding
+              - Scale factor
+              - Currency representation
+            - Fixed-point number types
+              - `Decimal`
+          * Floating-point numbers
+            - IEEE-754 standard
+            - Partial equality
+            * Floating-point number encoding
+              - Sign
+              - Significant/coefficient
+              - Exponent
+              * Base/radix
+                * Base 2
+                  - `Half`, binary16
+                  - `Single`, binary32, single-precision
+                  - `Double`, binary64, double-precision
+                  - `Quadruple`, binary128
+                  - `Octuple`, binary256
+                * Base 10
+                  - decimal32
+                  - decimal64
+                  - decimal128
+              * Properties
+                - Two infinities: positive and negative
+                - Two `NaN` (not a number) markers
+                - Two zeros: positive `+0` and negative `-0`
+                  - Quiet NaN, `qNaN`
+                  - Signaling NaN, `sNaN`
+                - Defined division by zero (yields infinity)
+              - Precision
+              - Mantissa
+              - Rounding errors
+              - Subnormal numbers
+    * Arithmetic operations
+      - Modes
+        - overflow
+        - saturation
+    * Text representation
+      - Character
+      * Strings
+        - null-terminating
+        - as objects
+        - static strings
+        - reference strings
+      * Characters encoding
+        - ASCII
+        * Unicode
+          - UTF-8
+          - UTF-16
+          - UTF-32
+
+  * *Data structures*
+    * Abstract Data Type
+    * Data structure properties
+      * Concurrent
+      * Persistent
+      * Linear
+    * Types of data structures
+      * Lists
+        * Array
+        * Linked list
+          * Singly-linked list
+          * Doubly-linked list
+        * Hash table
+      * Graphs
+        * Graph
+        * Tree
+  * Algorithms
+    * Space and time complexity
+    * Sorting algorithms
+      - Merge sort
+      - Quicksort
+      - Timsort
+    * Search algorithms
+      * Linear
+      * BST
+  * *Database theory*
+  * Data mining
+  * Data storing

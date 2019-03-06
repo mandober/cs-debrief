@@ -1,32 +1,47 @@
-# Hierarchy
+# CS Hierarchy
 
-1. Mathematics
-  1.0 Math foundations
-  1.1 Discrete math
-    1.1.1 Number theory
+Hierarchy: Domains » Areas » Sections » Topics
+
+Domains:
+* Math
+* Logic
+* CS
+
+
+
+* **Math**
+  * Math foundations
+  * Discrete math
+    * Number theory
       - Naturals
       - Integers
       - Rationals
       - Reals
       - Complex numbers
-    1.1.2 Counting theory
+    * Counting theory
       - Fundamental counting rules
       - Combinatorics
       - Permutations
-    1.1.3 Sets
+    * Sets
       * Set theory
         - Sets
         - Set operations
         - Fundamental sets
-        - Set theories
-          * Naïve set theory
+        * Set theories
+          - Naïve set theory
           * Axiomatic set theory
             - ZF/ZFC
             - ZFC axioms
       * Relations
+        - Cartesian product
+        - Ordered pair
       * Order theory
+        - poset
       * Functions
-    1.1.4 Graphs
+        - bijection
+    * Graphs
+      - tree
+* **Logic**
   1.2 Math logic
     1.2.0 Syllogistic logic
     1.2.1 Term logic
@@ -59,15 +74,12 @@
       * Lambda calculus
       * Simply-typed lambda calculus
   1.5 Category theory
-
-
-
-2. Computer Science
-  2.1 Foundations of computing
-  2.2 Computer hardware
-    2.2 Computer Hardware
-    2.2.1 CPU
-      - Bitness
+* **Computer Science**
+  * Foundations of computing
+  * Computer hardware
+    * Hardware
+    * CPU
+      * Bitness
         - 32-bit
         - 64-bit
       - Microarchitecture
