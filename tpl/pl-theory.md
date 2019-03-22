@@ -18,7 +18,7 @@ Programming Language Theory:
   - Types
   - Type inference
 * Compiler theory
-  - Compile-tyme
+  - Compile-time
   - Compiler types
   - Compiler technics
   * Compiler phases
@@ -80,4 +80,3 @@ Programming Language Theory:
   - Virtual Machine
   - Garbage Collection
   - Foreign Function Interface
-

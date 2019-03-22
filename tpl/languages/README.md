@@ -1,3 +1,3 @@
-# Programming Language Syntax
+# Programming Language Theory
 
-aliasing
+Theory of programming languages (TPL)

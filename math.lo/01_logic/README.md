@@ -1,4 +1,4 @@
-# Mathematical logic
+# Logic
 
-- [Introduction](./01_introduction.md)
-- [Formal language](./02_formal-language.md)
+- [Study of logic](./01_study-of-logic.md)
+- [Mathematical logic](./02_mathematical-logic.md)

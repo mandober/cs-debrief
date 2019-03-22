@@ -1,12 +1,11 @@
-# Abbreviations
+# Glossary
 
-Glossary - SQL Server 2016:
+Glossary for SQL Server 2016:
 https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2016/ms165911(v=sql.130)
 
 
-
-## DB
-Database. A database is a collection of structured data.
+## Database
+Database (DB or db) is a collection of structured data.
 
 ## RDB
 Relational Database - databases that have multiple tables that contain related data.

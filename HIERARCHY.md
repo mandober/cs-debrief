@@ -128,7 +128,7 @@ Domains:
         * CPU by instruction complexity
           - Complex Instruction Set Computing (CISC)
           - Reduced Instruction Set Computing (RISC)
-    2.2.2 Memory
+    * Memory
       - Memory latency
       - Memory by technology
       - Content-Addressable Memory (CAM)
@@ -139,11 +139,11 @@ Domains:
           - SDD, HDD
         - Tertiary storage
           - BD, DVD
-    2.2.3 Buses
+    * Buses
       * Address bus
       * Instruction bus
       * Data bus
-    2.2.4 I/O
+    * I/O
     * Components
       - Motherboard
       - CPU
@@ -165,7 +165,7 @@ Domains:
       - Business machine
       - Information appliance
 
-  2.3 Computer architecture
+  * Computer architecture
     * Computer architecture designs
       * Program-controlled system
       * Stored-program system
@@ -213,7 +213,7 @@ Domains:
       * Distributed architectures
       * Other architectures
   
-  2.4 Computer system
+  * Computer system
     * Computation Units
       - bit
       - byte
@@ -229,7 +229,7 @@ Domains:
     * Firmware
     * Driver
   
-  2.5 Operating system
+  * Operating system
     * Computer system types
       * Embedded systems
         - Firmware
@@ -253,7 +253,7 @@ Domains:
         - Neural networks
         - Quantum computing
   
-  2.9 Software
+  * Software
     * Software by domain:
       * System software
       * Applicative software
@@ -351,16 +351,16 @@ Domains:
         - Optimization
         - Statistics
 
-  2.9 Data
+  * Data
     * Data representation
     * Data structures
   
-  2.9 Program
+  * Program
     * Program execution
     * Program correctness
     * Program verification
   
-  2.9 Programming Language Theory
+  * Programming Language Theory
     * Formal languages
     * Parsing
       * Top-down
@@ -411,9 +411,9 @@ Domains:
       - Hardware description language
     * Compiler theory
   
-  2.9 Type Systems
+  * Type Systems
 
-  3.0 Networks
+  * Networks
     * Networks topology
     * Networks components
       - Gateways

@@ -2,10 +2,13 @@
 
 CS » Data » Database Theory
 
-
 * Database theory
   * Database models
-    * Common database models
+    * by abstraction level
+      - Conceptual model
+      - Logical model
+      - Physical model
+    * by type
       - Flat
       - Hierarchical
       - Dimensional
@@ -34,5 +37,8 @@ CS » Data » Database Theory
       - XML data store
       - Key-value store
       - Triplestore
-  * DDL and DML
-    * SQL
+  * Query language
+    - Data definition language (DDL)
+    - Data manipulation language (DML)
+    * Popular query languages
+      - SQL (DDL and DML)

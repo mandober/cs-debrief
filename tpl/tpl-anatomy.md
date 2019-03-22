@@ -3,7 +3,7 @@
 ---
 
 * Language
-  * The Nature of Language
+  * Nature of language
     - Communication
     - Syntax
     - Semantics
@@ -11,8 +11,8 @@
     - Programming Languages
     - Standardization
     - Nonstandard Compilers
-* Describing Computation
-* Application Modeling
+* Describing computation
+* Program modeling
 
 ---
 

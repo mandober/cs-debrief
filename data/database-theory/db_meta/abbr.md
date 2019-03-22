@@ -6,10 +6,10 @@ https://docs.microsoft.com/en-us/previous-versions/sql/sql-server-2016/ms165911(
 
 
 ## DB
-Database. A database is a collection of structured data.
+Database (DB or db) is a collection of structured data.
 
 ## RDB
-Relational Database - databases that have multiple tables that contain related data.
+Relational database is a db with multiple tables containing related data.
 
 ## SQL
 Standard Query Language (SQL)

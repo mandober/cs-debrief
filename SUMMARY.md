@@ -37,7 +37,7 @@
     - Injective
     - Surjective
     - Bijective
-* Mathematical Logic
+* [Mathematical Logic](./math.lo/README.md)
   - Logical System
     - Logical Argument
       - Proposition, Atom, Formula, Hypotesis

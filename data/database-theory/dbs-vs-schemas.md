@@ -1,7 +1,6 @@
-# Database schema
+# Databases vs schemas
 
 
-## Databases vs schemas
 SQL standard defines *SQL schema* as a *namespace* within a database.
 
 However, many DBs have their own implementation, with the overlapping of functionality between shemas and (parent) database.
@@ -39,5 +38,3 @@ PostgreSQL and some other databases have recently added support for foreign sche
 This appears like any other schema in the database according to the SQL specification while accessing data stored either in a different database or a different server instance. The import can be made either as an entire foreign schema or merely certain tables belonging to that foreign schema.
 
 While support for ISO/IEC 9075-9 bridges the gap between the two competing philosophies surrounding schemas, MySQL and Informix maintain an implicit association between databases while ISO/IEC 9075-9 requires that any such linkages be explicit in nature.
-
-
