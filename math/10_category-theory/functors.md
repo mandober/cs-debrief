@@ -1,6 +1,6 @@
 # Functors
 
-Functors, or **function objects**, are similar to function pointers, and can be used in similar ways. A functor is an object of a class type that implements the function-call operator, allowing the object to be used within expressions using the same syntax as a function call. Functors are more powerful than simple function pointers, being able to contain their own data values, and allowing the programmer to emulate closures. They are also used as callback functions if it is necessary to use a member function as a callback function.[4]
+Functors, or **function objects**, are similar to function pointers, and can be used in similar ways. A functor is an object of a class type that implements the function-call operator, allowing the object to be used within expressions using the same syntax as a function call. Functors are more powerful than simple function pointers, being able to contain their own data values, and allowing the programmer to emulate closures. They are also used as callback functions if it is necessary to use a member function as a callback function.
 
 Many "pure" object-oriented languages do not support function pointers. Something similar can be implemented in these kinds of languages, though, using references to interfaces that define a single method (member function). CLI languages such as C# and Visual Basic .NET implement type-safe function pointers with delegates.
 
