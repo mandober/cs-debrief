@@ -21,7 +21,9 @@
     - Syntax
     - Theory
   * Systems
-    - Formal system
+    - Formal systems
+      - Lambda Calculi
+        - Lambda Calculus
     - Deductive system
     - Axiomatic system
     - Hilbert style systems

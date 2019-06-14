@@ -1,19 +1,16 @@
-# Function
+# Functions
 
-- function is defined in terms of set theory.
+- The concept of function was formalized in terms of set theory.
+- Any subset of the *Cartesian product* between 2 non-empty sets defines a *relation* between them.
+- A particular relation that associates each element of the *domain* set (DOM) to a single element of *codomain* set (COD) is called a function.
+- Cartesian product, relation and function are all sets:
+- fn is a proper subsets of all relations which are subset of Cartesian product:
+  $$f(x)=y \ \subset \ xRy \ \subseteq \ X \times Y$$
 
-
-
-
-
-## Functions
-The concept of function was formalized, at the end of XIX century, in terms of set theory.
-
-Any subset of the *Cartesian product* between two non-empty sets, $$X\times Y$$ (possibly the same set, denoted by $$X^2$$), defines a **binary relation** between these two sets, denoted by $$R\subseteq (X\times Y)$$
 
 ## Function definition
 
-> A function is a particular relation on sets, that associates each element $$x$$ of a set $$X$$, called a **domain** of the function (DOM), to a single element $$y$$ of a set $$Y$$, called a **codomain** of the function (COD).
+A function is a particular relation on sets, that associates each element $$x$$ of a set $$X$$, called a **domain** of the function (DOM), to a single element $$y$$ of a set $$Y$$, called a **codomain** of the function (COD).
 
 A function is also defined by a set $$G$$ of ordered pairs $$(x,y)$$ such that $$x \in X$$ and $$y \in Y$$ and every element of $$X$$ is the first component of exactly one ordered pair in $$G$$.
 
